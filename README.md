@@ -1,5 +1,7 @@
 # Rock vs Mine Prediction Web App
 
+Try Live at:  https://rock-vs-mine-prediction-app-ubimidzubjwuk46ajdx8mg.streamlit.app/
+
 A machine learning web application built with Streamlit that predicts whether an object is a **rock** or a **mine** based on sonar signal data.
 
 ## Dataset
